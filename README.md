@@ -2,7 +2,6 @@
 - 👀 I’m passionate about Digital Electronics, 5G Communication, IoT, and sensors. I am eager to apply my innovative abilities and skills in an engineering environment.
 - 🌱 I’m currently learning python
 - 📫 Mail: afreenshajakhan23@gmail.com
-- 😄 Pronouns: Afuzzz
 
 
 <!---
