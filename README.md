@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Trained RTL Designer from Maven Silicon | Pre-Final Year Student @VITC
 ----------------------------------------------------------------------
 
-### About Me 
+#### About Me 
 Welcome to my GitHub profile! I'm a dedicated and passionate student with a robust proficiency in Python, Java, and Data Structures. My enthusiasm extends to areas like Digital Electronics, 5G Communication, and IoT, where I possess a solid foundation complemented by a keen interest in sensor technology. 
 
-#### Professional Experience 
+##### Professional Experience 
 During 2023, I embarked on a two-month offline internship at Moog India Technology Center Pvt Ltd in Bangalore. This opportunity allowed me to refine my practical skills while gaining valuable industry insights. Moreover, I successfully completed a digital internship at Maven Silicon during the same period, focusing on Digital Electronics and mastering Verilog basics. 
 
-#### Goals and Aspirations My primary goal is to apply my innovative abilities and diverse skill set in an engineering environment. I'm excited about contributing to real-world projects and continuing my learning journey. My GitHub repositories reflect my dedication to continuous improvement and my eagerness to collaborate on impactful projects. Feel free to explore my repositories, and don't hesitate to reach out for collaboration opportunities or discussions on topics within my expertise. Let's innovate together!
+#### Goals and Aspirations 
+My primary goal is to apply my innovative abilities and diverse skill set in an engineering environment. I'm excited about contributing to real-world projects and continuing my learning journey. My GitHub repositories reflect my dedication to continuous improvement and my eagerness to collaborate on impactful projects. Feel free to explore my repositories, and don't hesitate to reach out for collaboration opportunities or discussions on topics within my expertise. Let's innovate together!
 
 * 🌍  I'm based in Tamil Nadu
 * ✉️  You can contact me at [afreenshajakhan23@gmail.com](mailto:afreenshajakhan23@gmail.com)
