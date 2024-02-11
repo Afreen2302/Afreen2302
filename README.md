@@ -6,7 +6,7 @@ Trained RTL Designer from Maven Silicon | Pre-Final Year Student @VITC
 
 ### About Me 
 
-Welcome to my GitHub profile! I'm a dedicated and passionate student with a robust proficiency in Python, Java, and Data Structures. My enthusiasm extends to areas like Digital Electronics, 5G Communication, and IoT, where I possess a solid foundation complemented by a keen interest in sensor technology. 
+Welcome to my GitHub profile! I'm a dedicated and passionate student with a robust proficiency in Python, Java, Data Structures, and MATLAB. My enthusiasm extends to areas like Digital Electronics, 5G Communication, and IoT, where I possess a solid foundation complemented by a keen interest in sensor technology. 
 
 #### Professional Experience 
 
