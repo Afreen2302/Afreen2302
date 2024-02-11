@@ -44,8 +44,6 @@ src="https://img.shields.io/twitter/follow/afuzzz___?logo=twitter&style=for-the-
 
 <a href="http://www.github.com/Afreen2302"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Afreen2302&stroke=14b8a6&background=000000&ring=a855f7&fire=a855f7&currStreakNum=14b8a6&currStreakLabel=a855f7&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/Afreen2302"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Afreen2302&bg_color=000000&color=14b8a6&line=ec4899&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Afreen2302" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afreen2302&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
