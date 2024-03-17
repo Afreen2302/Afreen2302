@@ -21,7 +21,7 @@ My primary goal is to apply my innovative abilities and diverse skill set in an 
 
 <a href="https://www.github.com/Afreen2302" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Afreen2302?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a><a href="https://www.x.com/afuzzz___" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/afuzzz___?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
+src="https://img.shields.io/twitter/follow/afreen_2302?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
 /></a>
 
 ### Skills
