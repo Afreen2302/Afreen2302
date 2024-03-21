@@ -48,7 +48,7 @@ src="https://img.shields.io/twitter/follow/afreen_2302?logo=twitter&style=for-th
 
 ### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Afreen2302&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Afreen2302&theme=discord)
 
 <b>Top Repositories</b>
 
