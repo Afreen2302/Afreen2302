@@ -46,6 +46,10 @@ src="https://img.shields.io/twitter/follow/afreen_2302?logo=twitter&style=for-th
 
 <a href="https://github.com/Afreen2302" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afreen2302&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Afreen2302&theme=onedark)]
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Afreen2302/aiml_proj" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Afreen2302&repo=aiml_proj&title_color=a855f7&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
