@@ -46,4 +46,10 @@ src="https://img.shields.io/twitter/follow/afreen_2302?logo=twitter&style=for-th
 ---
 [![](https://visitcount.itsvg.in/api?id=Afreen2302&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
