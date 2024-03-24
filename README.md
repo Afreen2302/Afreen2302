@@ -43,6 +43,8 @@ src="https://img.shields.io/twitter/follow/afreen_2302?logo=twitter&style=for-th
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://raw.githubusercontent.com/Afreen2302/Afreen2302/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Afreen2302/count.svg?"  />
+</div>
 
 ###
