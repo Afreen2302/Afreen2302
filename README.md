@@ -4,9 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Trained RTL Designer from Maven Silicon | Pre-Final Year Student @VITC
 ----------------------------------------------------------------------
 
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Afreen2302&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Afreen2302.Afreen2302&"  />
 </div>
+
+###
 
 #### About Me 
 Welcome to my GitHub profile! I'm a dedicated and passionate student with a robust proficiency in Python, Java, and Data Structures. My enthusiasm extends to areas like Digital Electronics, 5G Communication, and IoT, where I possess a solid foundation complemented by a keen interest in sensor technology. 
