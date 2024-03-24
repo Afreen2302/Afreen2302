@@ -50,6 +50,6 @@ src="https://img.shields.io/twitter/follow/afreen_2302?logo=twitter&style=for-th
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Afreen2302/Afreen2302/output/snake.svg" alt="Snake animation" />
 
 ###
