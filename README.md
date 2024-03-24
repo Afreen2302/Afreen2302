@@ -44,7 +44,7 @@ src="https://img.shields.io/twitter/follow/afreen_2302?logo=twitter&style=for-th
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Afreen2302/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Afreen2302.Afreen2302&left_text=Profile%20Views:"  />
 </div>
 
 ###
