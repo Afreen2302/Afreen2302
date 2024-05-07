@@ -52,5 +52,3 @@ src="https://img.shields.io/twitter/follow/afreen_2302?logo=twitter&style=for-th
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="afreen-s-6b3882227" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/afreen-s-6b3882227?trk=profile-badge">Afreen S</a></div>
-              
