@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Afreen S
+Hi ! My name is Afreen S
 ================================================================================================================================
 
 5G Introductory-Level Certificate recipient from Qualcomm | Former Electronic and Hardware Engineering Intern @ Moog | VLSI Design Internship from Maven Silicon
