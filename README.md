@@ -19,11 +19,6 @@ My primary goal is to apply my innovative abilities and diverse skill set in an 
 * 🤝  I'm open to collaborating on Fascinating projects centered around Electronics and Artificial Intelligence/Machine Learning (AI/ML).
 * ⚡  I'm on a journey of learning to code, still in the early stages of proficiency, but committed to mastering it eventually!
 
-<a href="https://www.github.com/Afreen2302" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Afreen2302?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a><a href="https://www.x.com/afreen_2302" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/afreen_2302?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
-/></a>
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
