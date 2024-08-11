@@ -25,11 +25,6 @@ My primary goal is to apply my innovative abilities and diverse skill set in an 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afreen-s-6b3882227/)
 
-### Badges
-
-# 🛜 5G Introductory-Level certificate recipient from Qualcomm:
-<img width="695" alt="Screenshot 2024-08-10 122214" src="https://github.com/user-attachments/assets/6f1c8b4d-48f0-4f1e-8246-31114d628b65">
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Afreen2302&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Afreen2302&theme=dark&hide_border=false)<br/>
