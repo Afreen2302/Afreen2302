@@ -30,6 +30,9 @@ My primary goal is to apply my innovative abilities and diverse skill set in an 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Afreen2302&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afreen2302&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Afreen2302?theme=nord&font=Noto%20Sans%20Kannada&ext=activity)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Afreen2302&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
