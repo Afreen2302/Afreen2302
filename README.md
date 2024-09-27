@@ -5,7 +5,7 @@ Ex-Electronic and Hardware Engineering Intern @ Moog | VLSI Design Internship fr
 ----------------------------------------------------------------------
 
 #### About Me 
-Welcome to my GitHub profile! I'm a dedicated and passionate student with a robust proficiency in Python, Java, and Data Structures. My enthusiasm extends to areas like Digital Electronics, 5G Communication, and IoT, where I possess a solid foundation complemented by a keen interest in sensor technology. 
+Welcome to my GitHub profile! I'm a dedicated and passionate student with a robust proficiency in Python, C, and MATLAB. My enthusiasm extends to areas like Digital Electronics, 5G Communication, and IoT, where I possess a solid foundation complemented by a keen interest in sensor technology. 
 
 #### Professional Experience 
 During 2023, I embarked on a two-month offline internship at Moog India Technology Center Pvt Ltd in Bangalore. This opportunity allowed me to refine my practical skills while gaining valuable industry insights. Moreover, I successfully completed a digital internship at Maven Silicon during the same period, focusing on Digital Electronics and mastering Verilog basics. 
