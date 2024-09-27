@@ -1,7 +1,7 @@
 Hi ! My name is Afreen S
 ================================================================================================================================
 
-5G Introductory-Level Certificate recipient from Qualcomm | Former Electronic and Hardware Engineering Intern @ Moog | VLSI Design Internship from Maven Silicon
+Ex-Electronic and Hardware Engineering Intern @ Moog | VLSI Design Internship from Maven Silicon
 ----------------------------------------------------------------------
 
 #### About Me 
@@ -15,12 +15,11 @@ My primary goal is to apply my innovative abilities and diverse skill set in an 
 
 * 🌍  I'm based in Tamil Nadu
 * ✉️  You can contact me at [afreenshajakhan23@gmail.com](mailto:afreenshajakhan23@gmail.com)
-* 🧠  I'm learning Python, Advanced DSA, MATLAB, C
+* 🧠  I'm learning Python, MATLAB, C
 * 🤝  I'm open to collaborating on Fascinating projects centered around Electronics and Artificial Intelligence/Machine Learning (AI/ML).
-* ⚡  I'm on a journey of learning to code, still in the early stages of proficiency, but committed to mastering it eventually!
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afreen-s-6b3882227/)
@@ -30,22 +29,9 @@ My primary goal is to apply my innovative abilities and diverse skill set in an 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Afreen2302&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afreen2302&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Afreen2302?theme=nord&font=Noto%20Sans%20Kannada&ext=activity)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Afreen2302&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Afreen2302.Afreen2302&left_text=Profile%20Views:"  />
 </div>
 
 ###
-
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="afreen-s-6b3882227" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/afreen-s-6b3882227?trk=profile-badge">Afreen S</a></div>
-              
