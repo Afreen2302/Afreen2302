@@ -31,7 +31,6 @@ My primary goal is to apply my innovative abilities and diverse skill set in an 
 
 # 👩‍💻 Leetcode:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/afreen_2302?theme=radical&font=Nanum%20Gothic&ext=heatmap)
-
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=afreen_2302&filter=study&theme=monokai" alt="LeetCode Badges"/>
 
 <div align="center">
