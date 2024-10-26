@@ -29,6 +29,9 @@ My primary goal is to apply my innovative abilities and diverse skill set in an 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Afreen2302&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afreen2302&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 👩‍💻 Leetcode:
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={afreen_2302}&animated=true" alt="LeetCode Badges"/>
+![Leetcode Stats](https://leetcard.afreen_2302.cool/lapor?ext=heatmap)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Afreen2302.Afreen2302&left_text=Profile%20Views:"  />
