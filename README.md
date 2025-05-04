@@ -1,7 +1,7 @@
 Hi ! My name is Afreen S
 ================================================================================================================================
 
-Ex-Electronic and Hardware Engineering Intern @ Moog | VLSI Design Internship from Maven Silicon
+Project Intern @embedUR systems | Ex-Electronic and Hardware Engineering Intern @ Moog | VLSI Design Internship from Maven Silicon
 ----------------------------------------------------------------------
 
 #### About Me 
